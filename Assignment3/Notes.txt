@@ -1,0 +1,15 @@
+https://github.com/AidenDurrant/MoCo-Pytorch/blob/master/config.conf
+
+Accuracy with lr = 0.1 = 62.4
+
+Accuracy with lr = 0.001
+
+data= 10% Acc :- 85.93
+20% :- 89.40
+30% :- 91.50
+40% :- 94.02
+50% :- 95.31
+60% :- 95.44
+70% :- 97.07
+80% :- 97.01
+90% :- 97.69

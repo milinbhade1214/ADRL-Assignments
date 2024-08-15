@@ -1,0 +1,46 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2023-10-07T05:45:23.204058",
+    "startedAt": "2023-10-07T05:45:20.410623",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "DESKTOP-HVRSKB9",
+    "username": "DELL",
+    "executable": "c:\\ProgramData\\Anaconda3\\envs\\envForADRL\\python.exe",
+    "cpu_count": 10,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 1300.0,
+        "min": 0.0,
+        "max": 1300.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1300.0,
+            "min": 0.0,
+            "max": 1300.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 100.70605087280273,
+            "used": 84.40600204467773
+        }
+    },
+    "gpu": "NVIDIA GeForce MX570 A",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce MX570 A",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 15.692127227783203
+    }
+}
